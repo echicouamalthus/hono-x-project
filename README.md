@@ -14,7 +14,7 @@ Ce guide vous montrera comment configurer TailwindCSS v4 avec Honox dans votre p
 Commencez par installer les dépendances nécessaires :
 
 ```bash
-npm install @tailwindcss/vite honox @hono/vite-build @hono/vite-dev-server
+npm install tailwindcss @tailwindcss/vite honox @hono/vite-build @hono/vite-dev-server
 ```
 
 ### 2. Configurer Vite
